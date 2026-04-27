@@ -6,7 +6,7 @@
 
 ```
 skills/
-├── qiuzhi/           # 求职技能
+├── qiuzhi/           # 秋芝技能
 ├── amap-lbs/         # 高德地图服务
 ├── bilibili_reply/   # B 站评论回复
 ├── travel-planner/   # 智能旅游规划
@@ -15,7 +15,7 @@ skills/
 
 ## 📦 Skills 介绍
 
-### 1. qiuzhi - 求职技能
+### 1. qiuzhi - 秋芝技能
 
 **位置**: `qiuzhi/qiuzhi_skill/`
 
