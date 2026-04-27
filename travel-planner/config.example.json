@@ -1,0 +1,9 @@
+{
+  "amapKey": "你的高德地图 Web Service Key",
+  "weatherKey": "你的和风天气 API Key",
+  "preferences": {
+    "travelStyle": "relaxed",
+    "budgetLevel": "medium",
+    "interests": ["景点", "美食", "购物"]
+  }
+}

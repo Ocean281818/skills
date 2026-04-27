@@ -1,0 +1,20 @@
+{
+  "name": "travel-planner-skill",
+  "version": "1.0.0",
+  "description": "智能旅游规划助手 - 根据天气、人流量、交通等因素规划行程",
+  "main": "index.js",
+  "scripts": {
+    "plan": "node scripts/plan.js"
+  },
+  "dependencies": {
+    "axios": "^1.15.2"
+  },
+  "keywords": [
+    "travel",
+    "planner",
+    "amap",
+    "weather"
+  ],
+  "author": "",
+  "license": "MIT"
+}
